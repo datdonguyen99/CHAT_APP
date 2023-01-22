@@ -2,9 +2,9 @@
 
 # dependencies
 /node_modules
-/.pnp.cjs
-/.pnp.loader.mjs
-/yarn.lock
+.pnp.cjs
+.pnp.loader.mjs
+yarn.lock
 
 # testing
 /coverage
