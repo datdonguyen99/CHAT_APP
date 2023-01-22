@@ -35,6 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-config-react-app", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:7.0.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:18.2.0"],\
+            ["react-is", "npm:18.2.0"],\
             ["react-router-dom", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:6.7.0"],\
             ["react-scripts", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:2.1.8"],\
             ["styled-components", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:5.3.6"],\
@@ -6985,6 +6986,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-config-react-app", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:7.0.1"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:18.2.0"],\
+            ["react-is", "npm:18.2.0"],\
             ["react-router-dom", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:6.7.0"],\
             ["react-scripts", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:2.1.8"],\
             ["styled-components", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:5.3.6"],\
@@ -18933,7 +18935,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["hoist-non-react-statics", "npm:3.3.2"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:b9bc897b32b7de77e4a6434ac3f51c270df5d045d21979cbdf914715872f4a8088a607b79cfd7960476c295e967ae3979f3bd485cb16a9be41fecc502198a4cc#npm:18.2.0"],\
-            ["react-is", null],\
+            ["react-is", "npm:18.2.0"],\
             ["shallowequal", "npm:1.1.0"],\
             ["supports-color", "npm:5.5.0"]\
           ],\
